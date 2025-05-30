@@ -1,0 +1,27 @@
+[
+    {
+        "FirstName": "Fred",
+        "LastName": "Jones",
+        "CourseName": "Art"
+    },
+    {
+        "FirstName": "Rosa",
+        "LastName": "Ron",
+        "CourseName": "Classics"
+    },
+    {
+        "FirstName": "Albert",
+        "LastName": "Einstein",
+        "CourseName": "Math"
+    },
+    {
+        "FirstName": "Ether",
+        "LastName": "Air",
+        "CourseName": "Science"
+    },
+    {
+        "FirstName": "Howard",
+        "LastName": "Kant",
+        "CourseName": "Emglish"
+    }
+]
